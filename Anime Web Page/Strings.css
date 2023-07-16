@@ -1,0 +1,32 @@
+ h1{
+    text-align: center; /*Aligns text to desired location*/
+    font-size: 120px; /*Adjust the text to the desired size*/
+    font-weight: bolder; /*Make tex bold*/
+    color: red; /*Changes the color of the text*/
+}
+body{
+    background: url(344561-Terminator-Sci-Fi-Video-Game.jpg); /*The image that is used as the background for the webpage*/
+    background-size: 92%; /*Adjust the size of the image to fit the screen*/
+    width: 99%; /*Adjust tje width of the image to make sure it fit the screen properly*/
+}
+h2{
+    text-align: left; 
+    color: aliceblue;
+    font-size: 35px;
+}
+form{
+    text-align: center;
+    color: rgb(103, 178, 240);
+    font-weight: bolder;
+    font-size: 30px;
+}
+h3
+{
+    text-align: end;
+    font-weight: bold;
+    font-size: 25px;
+}
+a
+{
+    color: snow;
+}
